@@ -1,0 +1,22 @@
+{
+    "Group": "Demo",
+    "Name": "Pinpoint",
+    "Version": "2026.1.15-11481",
+    "Description": "A simple coordinate overlay mod",
+    "Authors": [
+        {
+            "Name": "Demo"
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "Main": "net.demo.pinpoint.Pinpoint",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true
+}
